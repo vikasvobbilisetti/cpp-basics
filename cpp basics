@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    float a;
+    float b;
+    cout<< "enter the two numbers";
+    cin>> a;
+    cin>>b;
+    float c=a*b;
+    cout<< "\nthen the final answer is" <<c;
+    
+    
+	
+	return 0;
+}
